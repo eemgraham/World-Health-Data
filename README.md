@@ -18,7 +18,7 @@ Implication: Policymakers, including the NHS, should avoid applying global BMI t
 Ageing Population in the UK: The UK's life expectancy is steadily increasing. This trend indicates that the NHS must prepare for the evolving needs of an ageing population, including long-term care and chronic disease management.
 
 # 🛠 Tools Used
-Tableau – for data visualization
+Tableau – for data visualisation
 
 Public health datasets on life expectancy, BMI, and cancer rates
 
